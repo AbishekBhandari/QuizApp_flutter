@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-The quiz app include following screens:
+The quiz app includes following screens:
 Quiz screen (with the question, options, and a submit button)
 Result screen (displaying the user's score)
 
