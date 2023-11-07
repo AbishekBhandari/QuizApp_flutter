@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+The quiz app include following screens:
+Quiz screen (with the question, options, and a submit button)
+Result screen (displaying the user's score)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Question class with properties like questionText, options, and correctOption is used to represent the quiz questions and answers. The questions are hardcoded for simplicity.
+The app keeps track of the user's score and displays it on the result screen.
